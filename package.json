@@ -302,6 +302,12 @@
   "overrides": {
     "eslint": "10.1.0",
     "typescript": "6.0.2",
-    "@eslint/js": "10.0.1"
+    "@eslint/js": "10.0.1",
+    "ws": ">=8.21.3",
+    "multer": ">=2.2.0"
+  },
+  "resolutions": {
+    "ws": ">=8.21.3",
+    "multer": ">=2.2.0"
   }
 }
