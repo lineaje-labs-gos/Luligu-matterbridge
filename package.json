@@ -1,13 +1,19 @@
 {
   "name": "matterbridge",
-  "version": "3.7.1",
+  "version": "3.7.1-lineaje-01",
   "description": "Matterbridge plugin manager for Matter",
   "author": "https://github.com/Luligu",
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "homepage": "https://matterbridge.io/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Luligu/matterbridge.git"
+    "url": "https://github.com/lineaje-labs-gos/Luligu-matterbridge"
   },
   "bugs": {
     "url": "https://github.com/Luligu/matterbridge/issues"
